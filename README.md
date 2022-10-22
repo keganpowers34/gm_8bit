@@ -1,4 +1,4 @@
-# gm_8bit bot
+# gm_8bit botz
 A module for manipulating voice data in Garry's Mod.
 
 # What does it do?
